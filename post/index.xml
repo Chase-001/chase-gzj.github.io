@@ -17,13 +17,104 @@
 &lt;/h3&gt;</description>
         </item>
         <item>
-        <title>newBlog</title>
-        <link>https://chase-001.github.io/hugo-dev/p/newblog/</link>
+        <title>软件测试是什么？</title>
+        <link>https://chase-001.github.io/hugo-dev/p/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%98%AF%E4%BB%80%E4%B9%88/</link>
         <pubDate>Sun, 02 Feb 2025 22:25:51 +0800</pubDate>
         
-        <guid>https://chase-001.github.io/hugo-dev/p/newblog/</guid>
-        <description>&lt;h1 id=&#34;一个软件测试工程师的真实画像&#34;&gt;一个软件测试工程师的真实画像
-&lt;/h1&gt;</description>
+        <guid>https://chase-001.github.io/hugo-dev/p/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%98%AF%E4%BB%80%E4%B9%88/</guid>
+        <description>&lt;h1 id=&#34;一个软件测试工程师的真实画像工作薪资与成长之路&#34;&gt;一个软件测试工程师的真实画像：工作、薪资与成长之路
+&lt;/h1&gt;&lt;h2 id=&#34;一推开测试工程师的日常之门&#34;&gt;一、推开测试工程师的日常之门
+&lt;/h2&gt;&lt;p&gt;早上9点，我习惯先冲杯咖啡，打开JIRA看迭代进度。今天要处理的是新上线的会员系统：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;需求评审会&lt;/strong&gt;：和产品经理确认「积分兑换规则」的业务边界，用XMind画出逻辑流程图&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;用例设计&lt;/strong&gt;：针对8种用户身份组合，设计23个正向场景和15个异常场景&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自动化维护&lt;/strong&gt;：修复因前端组件升级导致的5条UI自动化测试用例报错&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;缺陷跟踪&lt;/strong&gt;：复现用户反馈的「优惠券叠加异常」问题，用Charles抓包定位到接口传参错误&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;午休时收到HR通知，上周面试的候选人通过了技术面。下午的跨部门会议，需要演示用Python开发的「测试数据生成器」，帮助开发团队提升联调效率。&lt;/p&gt;
+&lt;h2 id=&#34;二薪资地图从新手村到王者段位&#34;&gt;二、薪资地图：从新手村到王者段位
+&lt;/h2&gt;&lt;p&gt;（数据综合自2023年一线城市招聘平台）&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;职级&lt;/th&gt;
+          &lt;th&gt;工作年限&lt;/th&gt;
+          &lt;th&gt;月薪范围&lt;/th&gt;
+          &lt;th&gt;能力标志&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;初级工程师&lt;/td&gt;
+          &lt;td&gt;0-2年&lt;/td&gt;
+          &lt;td&gt;8K-15K&lt;/td&gt;
+          &lt;td&gt;能执行测试用例，熟悉SQL和Linux基础操作&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;中级工程师&lt;/td&gt;
+          &lt;td&gt;3-5年&lt;/td&gt;
+          &lt;td&gt;15K-25K&lt;/td&gt;
+          &lt;td&gt;独立搭建自动化框架，掌握接口测试工具链&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;高级工程师&lt;/td&gt;
+          &lt;td&gt;5-8年&lt;/td&gt;
+          &lt;td&gt;25K-40K&lt;/td&gt;
+          &lt;td&gt;主导质量体系建设，具备性能压测方案设计能力&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;测试专家&lt;/td&gt;
+          &lt;td&gt;8年+&lt;/td&gt;
+          &lt;td&gt;40K-60K+&lt;/td&gt;
+          &lt;td&gt;精通质量效能提升，主导智能化测试平台建设&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;em&gt;注：金融/车联网领域薪资普遍上浮30%，头部大厂另有股票期权&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;三技能树的正确打开方式&#34;&gt;三、技能树的正确打开方式
+&lt;/h2&gt;&lt;h3 id=&#34;硬实力修炼手册&#34;&gt;硬实力修炼手册
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;基础必修&lt;/strong&gt;：MySQL增删改查/Fiddler抓包/Postman接口测试/JMeter压测&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自动化三件套&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;UI层：Selenium/Playwright/Cypress&lt;/li&gt;
+&lt;li&gt;接口层：Requests+Pytest/Postman+Newman&lt;/li&gt;
+&lt;li&gt;单元层：JUnit/TestNG&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;进阶装备&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;持续集成：Jenkins Pipeline设计&lt;/li&gt;
+&lt;li&gt;云测试：AWS Device Farm/浏览器云测平台&lt;/li&gt;
+&lt;li&gt;质量监控：ELK日志分析/Prometheus+Granfana&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;软实力成长指南&#34;&gt;软实力成长指南
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;缺陷嗅觉&lt;/strong&gt;：从用户行为数据中发现隐藏的边界条件&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;沟通艺术&lt;/strong&gt;：用开发听得懂的方式描述「这个按钮偶尔点不动」的问题&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;风险预判&lt;/strong&gt;：在需求评审时指出「短信验证码缺乏频次控制」的安全漏洞&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;四职业发展的十字路口&#34;&gt;四、职业发展的十字路口
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;纵向深耕&lt;/strong&gt;：&lt;br&gt;
+测试开发工程师 → 质量保障架构师 → 工程效能负责人&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;横向拓展&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;转型产品经理：测试积累的业务理解优势&lt;/li&gt;
+&lt;li&gt;转岗DevOps：自动化测试经验是天然跳板&lt;/li&gt;
+&lt;li&gt;创业方向：测试工具开发/SaaS化质量平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;行业选择&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;互联网：节奏快技术新，适合年轻人快速成长&lt;/li&gt;
+&lt;li&gt;传统企业：流程规范，适合追求工作生活平衡&lt;/li&gt;
+&lt;li&gt;外企：重视测试文档，英语能力是加分项&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;写给新人的真心话&#34;&gt;写给新人的真心话
+&lt;/h2&gt;&lt;p&gt;入行第三年时，我曾陷入「自动化脚本工人」的迷茫。直到带我的导师说：「测试的本质不是找错，而是建立用户与技术之间的信任桥梁」。现在每次看到自己设计的「兼容性测试矩阵」拦截住Android碎片化问题，都更理解这句话的分量。&lt;/p&gt;
+&lt;p&gt;这个岗位需要你有侦探般的敏锐，建筑师般的全局观，还要保持终身学习的热忱。当你在凌晨成功定位一个偶现缺陷时，那种「拨云见日」的成就感，或许就是测试工程师独有的浪漫。&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Chinese Test</title>
