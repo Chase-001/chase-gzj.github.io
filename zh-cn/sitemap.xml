@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://chase-001.github.io/hugo-dev/</loc>
-    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
+    <lastmod>2025-02-03T12:38:16+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,10 +15,13 @@
                 href="https://chase-001.github.io/hugo-dev/"
                 />
   </url><url>
-    <loc>https://chase-001.github.io/hugo-dev/p/myfristblog/</loc>
-    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
+    <loc>https://chase-001.github.io/hugo-dev/p/newblog/</loc>
+    <lastmod>2025-02-03T12:38:16+08:00</lastmod>
   </url><url>
     <loc>https://chase-001.github.io/hugo-dev/post/</loc>
+    <lastmod>2025-02-03T12:38:16+08:00</lastmod>
+  </url><url>
+    <loc>https://chase-001.github.io/hugo-dev/p/myfristblog/</loc>
     <lastmod>2025-02-02T22:25:51+08:00</lastmod>
   </url><url>
     <loc>https://chase-001.github.io/hugo-dev/categories/</loc>
