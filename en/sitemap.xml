@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chase-001.github.io/chase-gzj.github.io/en/categories/</loc>
+    <loc>https://chase-001.github.io/hugo-dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://chase-001.github.io/chase-gzj.github.io/categories/"
+                href="https://chase-001.github.io/hugo-dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chase-001.github.io/chase-gzj.github.io/en/categories/"
+                href="https://chase-001.github.io/hugo-dev/en/categories/"
                 />
   </url><url>
-    <loc>https://chase-001.github.io/chase-gzj.github.io/en/</loc>
+    <loc>https://chase-001.github.io/hugo-dev/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://chase-001.github.io/chase-gzj.github.io/"
+                href="https://chase-001.github.io/hugo-dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chase-001.github.io/chase-gzj.github.io/en/"
+                href="https://chase-001.github.io/hugo-dev/en/"
                 />
   </url><url>
-    <loc>https://chase-001.github.io/chase-gzj.github.io/en/tags/</loc>
+    <loc>https://chase-001.github.io/hugo-dev/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://chase-001.github.io/chase-gzj.github.io/tags/"
+                href="https://chase-001.github.io/hugo-dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://chase-001.github.io/chase-gzj.github.io/en/tags/"
+                href="https://chase-001.github.io/hugo-dev/en/tags/"
                 />
   </url>
 </urlset>
