@@ -7,16 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Chase</copyright>
-        <lastBuildDate>Mon, 03 Feb 2025 12:38:16 +0800</lastBuildDate><atom:link href="https://chase-001.github.io/hugo-dev/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>NewBlog</title>
-        <link>https://chase-001.github.io/hugo-dev/p/newblog/</link>
-        <pubDate>Mon, 03 Feb 2025 12:38:16 +0800</pubDate>
-        
-        <guid>https://chase-001.github.io/hugo-dev/p/newblog/</guid>
-        <description>&lt;h3 id=&#34;hello测试文章内容&#34;&gt;Hello，测试文章内容。
-&lt;/h3&gt;</description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 02 Feb 2025 22:25:51 +0800</lastBuildDate><atom:link href="https://chase-001.github.io/hugo-dev/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>MyFristBlog</title>
         <link>https://chase-001.github.io/hugo-dev/p/myfristblog/</link>
         <pubDate>Sun, 02 Feb 2025 22:25:51 +0800</pubDate>
@@ -24,6 +15,15 @@
         <guid>https://chase-001.github.io/hugo-dev/p/myfristblog/</guid>
         <description>&lt;h3 id=&#34;hello-chasewelcome&#34;&gt;Hello Chase！Welcome！
 &lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>newBlog</title>
+        <link>https://chase-001.github.io/hugo-dev/p/newblog/</link>
+        <pubDate>Sun, 02 Feb 2025 22:25:51 +0800</pubDate>
+        
+        <guid>https://chase-001.github.io/hugo-dev/p/newblog/</guid>
+        <description>&lt;h1 id=&#34;一个软件测试工程师的真实画像&#34;&gt;一个软件测试工程师的真实画像
+&lt;/h1&gt;</description>
         </item>
         <item>
         <title>Chinese Test</title>
