@@ -15,17 +15,8 @@
                 href="https://chase-001.github.io/hugo-dev/"
                 />
   </url><url>
-    <loc>https://chase-001.github.io/hugo-dev/p/myfristblog/</loc>
-    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
-  </url><url>
-    <loc>https://chase-001.github.io/hugo-dev/p/newblog/</loc>
-    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
-  </url><url>
-    <loc>https://chase-001.github.io/hugo-dev/post/</loc>
-    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
-  </url><url>
     <loc>https://chase-001.github.io/hugo-dev/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -37,10 +28,19 @@
                 href="https://chase-001.github.io/hugo-dev/categories/"
                 />
   </url><url>
-    <loc>https://chase-001.github.io/hugo-dev/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://chase-001.github.io/hugo-dev/p/myfristblog/</loc>
+    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
+  </url><url>
+    <loc>https://chase-001.github.io/hugo-dev/p/newblog/</loc>
+    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
+  </url><url>
+    <loc>https://chase-001.github.io/hugo-dev/post/</loc>
+    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
   </url><url>
     <loc>https://chase-001.github.io/hugo-dev/categories/test/</loc>
+    <lastmod>2025-02-02T22:25:51+08:00</lastmod>
+  </url><url>
+    <loc>https://chase-001.github.io/hugo-dev/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://chase-001.github.io/hugo-dev/categories/%E6%B5%8B%E8%AF%95/</loc>
